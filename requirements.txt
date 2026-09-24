@@ -1,0 +1,6 @@
+gymnasium[mujoco]>=1.0
+stable-baselines3>=2.3
+torch
+tensorboard
+matplotlib
+imageio[ffmpeg]
